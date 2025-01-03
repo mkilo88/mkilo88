@@ -42,8 +42,12 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/mkilo88/mkilo88/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/l41Yse6zbLETBoGd2/giphy.gif?cid=790b7611xgzfcfegmethkquk1ag7oxgx7sqtoephovlw28ox&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
 
 ###
