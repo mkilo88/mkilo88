@@ -42,7 +42,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mkilo88/mkilo88/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/mkilo88/mkilo88/blob/output/github-snake-dark.svg)
 
 ###
 
